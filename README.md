@@ -14,7 +14,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/jhonny1994/WhispDiary/total) ![Contributors](https://img.shields.io/github/contributors/jhonny1994/WhispDiary?color=dark-green) ![Stargazers](https://img.shields.io/github/stars/jhonny1994/WhispDiary?style=social) ![Issues](https://img.shields.io/github/issues/jhonny1994/WhispDiary) ![License](https://img.shields.io/github/license/jhonny1994/WhispDiary) 
+![Downloads](https://img.shields.io/github/downloads/jhonny1994/WhispDiary/total) ![Contributors](https://img.shields.io/github/contributors/jhonny1994/WhispDiary?color=dark-green) ![Stargazers](https://img.shields.io/github/stars/jhonny1994/WhispDiary?style=social) ![Issues](https://img.shields.io/github/issues/jhonny1994/WhispDiary)
 
 ## About The Project
 
