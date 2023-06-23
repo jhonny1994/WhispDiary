@@ -35,9 +35,7 @@ Join us on this learning journey with WhispDiary and start documenting your life
 
 ## Next steps
 
-<ul>
-    <li><input type="checkbox">internationalization</li>
-    <li><input type="checkbox">tweak the theme</li>
-    <li><input type="checkbox">notifications</li>
-    <li><input type="checkbox">online sync</li>
-  </ul>
+- [ ] internationalization
+- [ ] tweak the theme
+- [ ] notifications
+- [ ] online sync
