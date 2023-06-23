@@ -33,6 +33,11 @@ The app utilizes a local database for data storage, but with future plans to int
 
 Join us on this learning journey with WhispDiary and start documenting your life's moments with style and convenience.
 
-## Built With
+## Next steps
 
-* [flutter](https://github.com/flutter/flutter)
+<ul>
+    <li><input type="checkbox">internationalization</li>
+    <li><input type="checkbox">tweak the theme</li>
+    <li><input type="checkbox">notifications</li>
+    <li><input type="checkbox">online sync</li>
+  </ul>
