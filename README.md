@@ -11,6 +11,7 @@
     <br/>
     <br/>
     <a href="https://github.com/jhonny1994/WhispDiary/issues">Request Feature</a>
+    <a href="https://drive.proton.me/urls/N2D12NBFQC#wPy1fAFfzrhA">Download APK</a>
   </p>
 </p>
 
