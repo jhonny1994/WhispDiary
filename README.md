@@ -21,7 +21,7 @@
 
 ## About The Project
 
-<img src="https://i.ibb.co/Pt0wJL9/download.png" height="100">
+![Screen Shot](https://i.ibb.co/Pt0wJL9/download.png)
 
 WhispDiary is a dynamic and user-friendly Flutter app that allows you to effortlessly capture your thoughts and experiences like a digital diary. With WhispDiary, you can create new entries, edit existing ones, and even filter them by date for convenient retrieval.
 
